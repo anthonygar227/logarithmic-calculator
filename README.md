@@ -70,3 +70,7 @@ Las Positas College — Calculus II Honors Project (May 2024)
 ## Reference
 
 Oscar Lanzi. "Is There Any Equivalent of Taylor/Maclaurin Series of ln(1+x) for |x| > 1." Mathematics Stack Exchange, 26 Apr. 2019.
+
+## Full Report
+
+See [REPORT.md](REPORT.md) for the complete project writeup, including mathematical derivations and development process.
